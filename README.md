@@ -15,6 +15,10 @@
   <img src="./images/jiaolong_screenshot_task_detail_page.jpg" width="200px" style="box-shadow: 0 4px 12px rgba(0,0,0,0.25);" />
 </p>
 
+## System Architecture
+
+<img src="./images/jiaolong_system_architecture.png" width="400px" />
+
 ## License
 
 [LICENSE](LICENSE)
