@@ -1,0 +1,192 @@
+# Jiaolong Community License v1.0
+
+Copyright (c) 2026 Jianfeng Hou [frankderekdick@gmail.com](mailto:frankderekdick@gmail.com)
+
+## 1. Definitions
+
+For purposes of this License:
+
+**"Software"** means the Jiaolong software, including its source code, object code, documentation, configuration files, and other materials distributed by the Copyright Holder under this License.
+
+**"Original Software"** means the Software as originally distributed by the Copyright Holder, including subsequent official versions distributed under this License.
+
+**"Derivative Work"** means any work that is based on, incorporates, modifies, adapts, or is otherwise derived from the Software or a substantial portion of the Software.
+
+**"Distribute"** means to make the Software or a Derivative Work available to another person or entity, including by selling, transferring, publishing, sublicensing, or otherwise making it available for download or use.
+
+**"Commercial Use"** means any use of the Software or a Derivative Work that is primarily intended for or directed toward commercial advantage, monetary compensation, revenue generation, or business operations. This includes, without limitation:
+
+* incorporating the Software into a commercial product or service;
+* using the Software as part of a commercial product or service;
+* offering the Software or a Derivative Work to customers or other third parties as part of a paid service;
+* providing the functionality of the Software through a hosted service, SaaS product, API, or other network service for commercial purposes;
+* using the Software internally in the operation of a commercial business;
+* selling, licensing, or otherwise monetizing the Software or a Derivative Work; and
+* distributing the Software or a Derivative Work as part of a commercial offering.
+
+**"Copyright Holder"** means Jianfeng Hou [frankderekdick@gmail.com](mailto:frankderekdick@gmail.com), the copyright holder of the Software.
+
+---
+
+## 2. Grant of Non-Commercial Rights
+
+Subject to the terms and conditions of this License, the Copyright Holder grants you a worldwide, royalty-free, non-exclusive, non-transferable license to:
+
+1. use the Software for personal and other non-commercial purposes;
+2. copy the Software;
+3. study and inspect the source code;
+4. modify the Software;
+5. create Derivative Works; and
+6. Distribute the Software or Derivative Works for non-commercial purposes.
+
+These rights are granted only for purposes that do not constitute Commercial Use.
+
+No rights are granted for Commercial Use except as expressly provided in Section 3.
+
+---
+
+## 3. Commercial Use
+
+Commercial Use of the Software or any Derivative Work requires **prior written permission from the Copyright Holder**.
+
+The Copyright Holder may grant permission for Commercial Use at their sole discretion and may impose additional terms, conditions, fees, or licensing requirements.
+
+Permission for one instance, product, organization, or use does not automatically constitute permission for any other instance, product, organization, or use unless the written permission expressly provides otherwise.
+
+A request for commercial licensing may be directed to:
+
+**Jianfeng Hou**
+**Email:** [frankderekdick@gmail.com](mailto:frankderekdick@gmail.com)
+
+The Copyright Holder may, at their discretion, provide a separate commercial license or other written authorization for Commercial Use.
+
+---
+
+## 4. Attribution
+
+Any copy, publication, or distribution of the Software or a Derivative Work must retain the following attribution:
+
+> Jiaolong (蛟龙)
+> Original project by Jianfeng Hou
+> https://github.com/winderek/jiaolong-ai
+
+If the Software is incorporated into or forms the basis of a Derivative Work, the Derivative Work must clearly state that it is based on or derived from Jiaolong.
+
+The attribution must be reasonably visible and accessible to users of the Derivative Work. For software distributed with documentation, the attribution must appear in the documentation and/or an appropriate "About", "Credits", or equivalent section.
+
+The attribution requirement does not require a Derivative Work to use the Jiaolong name as its own product name.
+
+---
+
+## 5. Derivative Works and Reciprocity
+
+If you create and Distribute a Derivative Work based on the Software, the portions of the Derivative Work that are based on, derived from, or incorporate the Software must be licensed under this License, unless you have obtained separate written permission from the Copyright Holder.
+
+You must provide recipients of such a Derivative Work with a copy of this License or a clear reference to the complete text of this License.
+
+You must not impose additional restrictions on the rights granted by this License with respect to the portions of the Derivative Work covered by this License, except where such restrictions are expressly permitted by this License or authorized in writing by the Copyright Holder.
+
+This Section does not prevent you from licensing your original, independently created code under additional terms, provided that doing so does not remove or restrict the rights granted under this License to the Jiaolong-derived portions.
+
+---
+
+## 6. Source Code Availability
+
+If you Distribute a Derivative Work in source-code form, you must retain the copyright notices, license notices, and attribution requirements applicable to the Software.
+
+If you Distribute a Derivative Work in compiled, binary, or other non-source form, you must make the corresponding source code of the Jiaolong-derived portions available to recipients under this License, unless you have obtained separate written permission from the Copyright Holder.
+
+The source code must be made available in a reasonable manner appropriate to the method of distribution.
+
+---
+
+## 7. Notices and License Text
+
+You must not remove or alter copyright notices, license notices, attribution notices, or other notices included in the Original Software, except where such removal or alteration is technically necessary and the required information is preserved in an appropriate location.
+
+Every distribution of the Software or a Derivative Work covered by this License must include a copy of this License or a clear reference to its complete and unmodified text.
+
+---
+
+## 8. No Trademark License
+
+This License does not grant any right to use the name **Jiaolong**, the Chinese name **蛟龙**, or any associated logos, trademarks, service marks, or branding of the Copyright Holder, except for the limited purpose of providing the attribution required by this License.
+
+You may state that your work is based on Jiaolong, provided that such statement does not falsely imply endorsement, sponsorship, affiliation, or official status.
+
+---
+
+## 9. Contributions
+
+Unless otherwise agreed in writing with the Copyright Holder, any contribution intentionally submitted for inclusion in the Software is provided under the terms of this License.
+
+By submitting a contribution, you represent that you have the necessary rights to submit the contribution under these terms.
+
+The Copyright Holder may separately establish a contributor agreement or other contribution terms for future contributions.
+
+---
+
+## 10. Termination
+
+The rights granted under this License will automatically terminate if you materially violate any term of this License.
+
+Upon termination, you must cease all use, reproduction, modification, and distribution of the Software and any Derivative Work covered by this License, except that recipients who have received the Software from you in compliance with this License will retain the rights validly granted to them, provided they remain in compliance with this License.
+
+The Copyright Holder may, at their discretion, reinstate rights that were terminated due to a violation.
+
+---
+
+## 11. No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, OR ANY WARRANTY ARISING OUT OF COURSE OF DEALING OR USAGE OF TRADE.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+## 12. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS, REVENUE, DATA, BUSINESS, OR GOODWILL, ARISING OUT OF OR RELATED TO THE SOFTWARE OR THIS LICENSE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+---
+
+## 13. No Obligation to Provide Support
+
+Nothing in this License obligates the Copyright Holder to provide maintenance, technical support, updates, security fixes, documentation, or other services relating to the Software.
+
+The Copyright Holder may modify, discontinue, or replace the Software at any time.
+
+---
+
+## 14. No Additional Grant
+
+Except for the rights expressly granted by this License, no other rights are granted, whether by implication, estoppel, or otherwise.
+
+In particular, this License does not grant any patent rights, trademark rights, or other intellectual property rights beyond the copyright rights expressly stated herein.
+
+---
+
+## 15. Severability
+
+If any provision of this License is held to be invalid or unenforceable, that provision shall be interpreted to the maximum extent permitted by applicable law, and the remaining provisions shall remain in full force and effect.
+
+---
+
+## 16. Entire Agreement
+
+This License constitutes the entire agreement concerning the rights granted to you with respect to the Software under this License, unless you have separately entered into a written agreement with the Copyright Holder.
+
+Any separate written agreement between you and the Copyright Holder may grant additional rights or permissions and shall prevail over this License to the extent of any conflict.
+
+---
+
+## 17. Contact
+
+For questions regarding this License, requests for Commercial Use, or requests for alternative licensing terms, contact:
+
+**Jianfeng Hou**
+**Email:** [frankderekdick@gmail.com](mailto:frankderekdick@gmail.com)
+
+---
+
+Copyright (c) 2026 Jianfeng Hou. All rights reserved.

@@ -1,0 +1,6 @@
+{
+  "sshForwardingCommands": [
+    "ssh -N -o ServerAliveInterval=30 -o ServerAliveCountMax=3 -o TCPKeepAlive=yes -o ExitOnForwardFailure=yes -R 127.0.0.1:60666:127.0.0.1:60666 user@example.com"
+  ],
+  "checkIntervalSeconds": 5
+}
